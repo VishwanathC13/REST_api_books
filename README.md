@@ -38,7 +38,7 @@ Ensure you have the following installed:
 ### 2️⃣ Clone the Repository
 ```sh
 git clone https://github.com/VishwanathC13/REST_api_books.git
-cd book-management-api
+cd REST_api_books
 ```
 
 ### 3️⃣ Build and Run the Application
